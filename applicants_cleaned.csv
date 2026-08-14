@@ -1,66 +1,66 @@
 Applicant Name,Email,Phone,Domain Applied,University,Application Date,Status
-Bob Davis,bob.davis@example.com,1651623197,Web Development,Columbia,2021-04-02,Active
-Bob Brown,bob.brown@example.com,1898471390,Data Science,Harvard University,2020-07-10,Active
-Eva Davis,eva.davis@example.com,3476490784,Cybersecurity,Yale,2021-11-27,Inactive
-Frank Williams,frank.williams@example.com,1586734256,Cloud Computing,Cambridge,2022-01-05,Active
-Alice Garcia,alice.garcia@example.com,5409003485,Web Development,Cambridge,2020-06-10,Inactive
-Frank Jones,frank.jones@example.com,4518376063,Cybersecurity,Harvard University,2020-04-03,Active
-Bob Jones,bob.jones@example.com,4134327559,Cloud Computing,Chicago,2022-07-17,Inactive
-Frank Davis,frank.davis@example.com,4177656123,Cybersecurity,Columbia,2023-08-12,Inactive
-David Williams,david.williams@example.com,2720634590,Cloud Computing,Oxford,2024-07-06,Active
-David Davis,david.davis@example.com,1238296576,Web Development,Princeton,2023-09-04,Active
-Heidi Williams,heidi.williams@example.com,2429543164,Machine Learning,Yale,2024-03-05,Active
-Grace Williams,grace.williams@example.com,2669300892,Data Science,Not Specified,2020-10-10,Active
-Grace Jones,grace.jones@example.com,4215291085,Web Development,Columbia,2021-05-29,Pending
-Alice Brown,not_provided@example.com,7713334475,Web Development,Princeton,2024-04-23,Inactive
-Grace Garcia,grace.garcia@example.com,2639343625,Data Science,Oxford,2024-11-28,Pending
-Charlie Garcia,charlie.garcia@example.com,2044397358,Cloud Computing,Yale,2024-09-19,Inactive
-Charlie Williams,charlie.williams@example.com,7107256365,Cybersecurity,Princeton,2020-02-01,Pending
-Charlie Johnson,charlie.johnson@example.com,6528092427,Web Development,Yale,2021-03-09,Inactive
-David Garcia,david.garcia@example.com,7572158623,Data Science,Harvard University,2022-02-03,Pending
-David Miller,david.miller@example.com,9485625727,Cloud Computing,Chicago,2020-04-30,Pending
-Frank Miller,frank.miller@example.com,7032032073,Web Development,Stanford,2023-10-02,Inactive
-Alice Brown,alice.brown@example.com,2849939088,Web Development,Yale,2021-05-24,Active
-Charlie Jones,charlie.jones@example.com,2613715040,Cybersecurity,Yale,2021-05-26,Inactive
-Charlie Brown,charlie.brown@example.com,7490509758,Data Science,Stanford,2024-11-05,Active
-Grace Johnson,grace.johnson@example.com,2304501895,Data Science,Not Specified,2021-08-07,Inactive
-Heidi Miller,heidi.miller@example.com,1642361031,Cybersecurity,Stanford,2020-04-29,Active
-Grace Smith,grace.smith@example.com,4996165925,Web Development,Stanford,2023-05-02,Pending
-Eva Williams,eva.williams@example.com,8147617421,Machine Learning,Not Specified,2022-07-27,Active
-Alice Johnson,alice.johnson@example.com,4918017225,Machine Learning,Harvard University,2024-12-03,Active
-Eva Brown,eva.brown@example.com,5232194167,Data Science,MIT,2020-07-08,Active
-Alice Davis,alice.davis@example.com,310303722,Web Development,MIT,2022-05-30,Active
-Alice Miller,alice.miller@example.com,6831472759,Cybersecurity,Cambridge,2023-09-27,Active
-Grace Miller,grace.miller@example.com,1227770792,Web Development,Cambridge,2024-11-05,Active
-Charlie Davis,charlie.davis@example.com,3496050165,Cloud Computing,Oxford,2021-11-11,Pending
-Alice Smith,alice.smith@example.com,2971674337,Cloud Computing,Columbia,2023-11-07,Under Review
-Charlie Smith,charlie.smith@example.com,1255213759,Machine Learning,Harvard University,2023-07-20,Pending
-Bob Johnson,bob.johnson@example.com,5328632665,Data Science,Harvard University,2021-02-02,Pending
-Grace Brown,grace.brown@example.com,7850720810,Cybersecurity,Columbia,2020-01-12,Pending
-Heidi Johnson,heidi.johnson@example.com,2884318847,Machine Learning,Yale,2024-01-01,Active
-David Johnson,david.johnson@example.com,8105485100,Data Science,Yale,2023-01-16,Inactive
-David Brown,david.brown@example.com,1589357125,Cybersecurity,Yale,2022-09-21,Inactive
-Grace Davis,grace.davis@example.com,2881377027,Cloud Computing,Harvard University,2024-03-14,Active
-David Jones,david.jones@example.com,8215454469,Web Development,Stanford,2020-09-15,Active
-Bob Miller,bob.miller@example.com,7725199662,Web Development,Yale,2024-06-18,Under Review
-Frank Smith,frank.smith@example.com,6580741208,Data Science,Yale,,Inactive
-Heidi Garcia,heidi.garcia@example.com,4339718955,Data Science,Cambridge,2021-03-07,Pending
-Eva Miller,eva.miller@example.com,2412462094,Web Development,Chicago,2020-01-21,Pending
-Frank Johnson,frank.johnson@example.com,8861405785,Web Development,Stanford,2022-05-21,Inactive
-Frank Brown,frank.brown@example.com,1706304890,Machine Learning,Harvard University,2021-04-17,Inactive
-Eva Jones,eva.jones@example.com,2582386869,Cybersecurity,Princeton,2022-01-09,Active
-Eva Garcia,eva.garcia@example.com,8728399920,Cloud Computing,Cambridge,2024-06-11,Under Review
-Frank Garcia,frank.garcia@example.com,1997179109,Data Science,Oxford,2023-09-08,Active
-Heidi Jones,heidi.jones@example.com,4567972319,Cybersecurity,Cambridge,2023-05-12,Active
-Bob Garcia,bob.garcia@example.com,249685497,Data Science,Stanford,2021-07-01,Pending
-Eva Johnson,eva.johnson@example.com,2274954507,Web Development,Chicago,2024-11-07,Inactive
-Alice Jones,alice.jones@example.com,334234257,Cloud Computing,Stanford,2023-11-02,Pending
-David Smith,david.smith@example.com,9611223385,Data Science,Princeton,2024-06-11,Pending
-Alice Williams,alice.williams@example.com,3373898774,Web Development,Harvard University,2021-03-29,Pending
-Heidi Smith,heidi.smith@example.com,5292407552,Cloud Computing,Cambridge,2020-10-04,Pending
-Bob Smith,bob.smith@example.com,4841376814,Web Development,Harvard University,2020-09-15,Active
-Heidi Brown,heidi.brown@example.com,6335331059,Cloud Computing,Harvard University,2022-01-22,Pending
-Heidi Davis,heidi.davis@example.com,8903091435,Web Development,Not Specified,2021-03-27,Active
-Charlie Miller,charlie.miller@example.com,2087510292,Machine Learning,Yale,2023-08-23,Inactive
-Eva Smith,eva.smith@example.com,9484910255,Web Development,UC Berkeley,2022-12-28,Pending
-Bob Williams,bob.williams@example.com,5472812355,Web Development,Princeton,2022-01-03,Pending
+Bob Davis,bob.davis@example.com,1651623197,Web Development,Columbia,4/2/2021,Rejected
+Bob Brown,bob.brown@example.com,1898471390,Data Science,Harvard University,7/10/2020,Rejected
+Eva Davis,eva.davis@example.com,3476490784,Cybersecurity,Yale,11/27/2021,Under Review
+Frank Williams,frank.williams@example.com,1586734256,Cloud Computing,Cambridge,1/5/2022,Selected
+Alice Garcia,alice.garcia@example.com,5409003485,Web Development,Cambridge,6/10/2020,Rejected
+Frank Jones,frank.jones@example.com,4518376063,Cybersecurity,Harvard University,4/3/2020,Selected
+Bob Jones,bob.jones@example.com,4134327559,Cloud Computing,Chicago,7/17/2022,Rejected
+Frank Davis,frank.davis@example.com,4177656123,Cybersecurity,Columbia,8/12/2023,Rejected
+David Williams,david.williams@example.com,2720634590,Cloud Computing,Oxford,7/6/2024,Selected
+David Davis,david.davis@example.com,1238296576,Web Development,Princeton,9/4/2023,Selected
+Heidi Williams,heidi.williams@example.com,2429543164,Machine Learning,Yale,3/5/2024,Selected
+Grace Williams,grace.williams@example.com,2669300892,Data Science,Not Specified,10/10/2020,Rejected
+Grace Jones,grace.jones@example.com,4215291085,Web Development,Columbia,5/29/2021,Rejected
+Alice Brown,not_provided@example.com,7713334475,Web Development,Princeton,4/23/2024,Rejected
+Grace Garcia,grace.garcia@example.com,2639343625,Data Science,Oxford,11/28/2024,Selected
+Charlie Garcia,charlie.garcia@example.com,2044397358,Cloud Computing,Yale,9/19/2024,Rejected
+Charlie Williams,charlie.williams@example.com,7107256365,Cybersecurity,Princeton,2/1/2020,Selected
+Charlie Johnson,charlie.johnson@example.com,6528092427,Web Development,Yale,3/9/2021,Rejected
+David Garcia,david.garcia@example.com,7572158623,Data Science,Harvard University,2/3/2022,Under Review
+David Miller,david.miller@example.com,9485625727,Cloud Computing,Chicago,4/30/2020,Selected
+Frank Miller,frank.miller@example.com,7032032073,Web Development,Stanford,10/2/2023,Rejected
+Alice Brown,alice.brown@example.com,2849939088,Web Development,Yale,5/24/2021,Selected
+Charlie Jones,charlie.jones@example.com,2613715040,Cybersecurity,Yale,5/26/2021,Rejected
+Charlie Brown,charlie.brown@example.com,7490509758,Data Science,Stanford,11/5/2024,Selected
+Grace Johnson,grace.johnson@example.com,2304501895,Data Science,Not Specified,8/7/2021,Rejected
+Heidi Miller,heidi.miller@example.com,1642361031,Cybersecurity,Stanford,4/29/2020,Rejected
+Grace Smith,grace.smith@example.com,4996165925,Web Development,Stanford,5/2/2023,Selected
+Eva Williams,eva.williams@example.com,8147617421,Machine Learning,Not Specified,7/27/2022,Selected
+Alice Johnson,alice.johnson@example.com,4918017225,Machine Learning,Harvard University,12/3/2024,Selected
+Eva Brown,eva.brown@example.com,5232194167,Data Science,MIT,7/8/2020,Selected
+Alice Davis,alice.davis@example.com,310303722,Web Development,MIT,5/30/2022,Selected
+Alice Miller,alice.miller@example.com,6831472759,Cybersecurity,Cambridge,9/27/2023,Rejected
+Grace Miller,grace.miller@example.com,1227770792,Web Development,Cambridge,11/5/2024,Selected
+Charlie Davis,charlie.davis@example.com,3496050165,Cloud Computing,Oxford,11/11/2021,Under Review
+Alice Smith,alice.smith@example.com,2971674337,Cloud Computing,Columbia,11/7/2023,Rejected
+Charlie Smith,charlie.smith@example.com,1255213759,Machine Learning,Harvard University,7/20/2023,Rejected
+Bob Johnson,bob.johnson@example.com,5328632665,Data Science,Harvard University,2/2/2021,Selected
+Grace Brown,grace.brown@example.com,7850720810,Cybersecurity,Columbia,1/12/2020,Selected
+Heidi Johnson,heidi.johnson@example.com,2884318847,Machine Learning,Yale,1/1/2024,Rejected
+David Johnson,david.johnson@example.com,8105485100,Data Science,Yale,1/16/2023,Rejected
+David Brown,david.brown@example.com,1589357125,Cybersecurity,Yale,9/21/2022,Rejected
+Grace Davis,grace.davis@example.com,2881377027,Cloud Computing,Harvard University,3/14/2024,Selected
+David Jones,david.jones@example.com,8215454469,Web Development,Stanford,9/15/2020,Selected
+Bob Miller,bob.miller@example.com,7725199662,Web Development,Yale,6/18/2024,Under Review
+Frank Smith,frank.smith@example.com,6580741208,Data Science,Yale,,Rejected
+Heidi Garcia,heidi.garcia@example.com,4339718955,Data Science,Cambridge,3/7/2021,Selected
+Eva Miller,eva.miller@example.com,2412462094,Web Development,Chicago,1/21/2020,Under Review
+Frank Johnson,frank.johnson@example.com,8861405785,Web Development,Stanford,5/21/2022,Rejected
+Frank Brown,frank.brown@example.com,1706304890,Machine Learning,Harvard University,4/17/2021,Rejected
+Eva Jones,eva.jones@example.com,2582386869,Cybersecurity,Princeton,1/9/2022,Selected
+Eva Garcia,eva.garcia@example.com,8728399920,Cloud Computing,Cambridge,6/11/2024,Under Review
+Frank Garcia,frank.garcia@example.com,1997179109,Data Science,Oxford,9/8/2023,Selected
+Heidi Jones,heidi.jones@example.com,4567972319,Cybersecurity,Cambridge,5/12/2023,Selected
+Bob Garcia,bob.garcia@example.com,249685497,Data Science,Stanford,7/1/2021,Selected
+Eva Johnson,eva.johnson@example.com,2274954507,Web Development,Chicago,11/7/2024,Rejected
+Alice Jones,alice.jones@example.com,334234257,Cloud Computing,Stanford,11/2/2023,Under Review
+David Smith,david.smith@example.com,9611223385,Data Science,Princeton,6/11/2024,Selected
+Alice Williams,alice.williams@example.com,3373898774,Web Development,Harvard University,3/29/2021,Rejected
+Heidi Smith,heidi.smith@example.com,5292407552,Cloud Computing,Cambridge,10/4/2020,Under Review
+Bob Smith,bob.smith@example.com,4841376814,Web Development,Harvard University,9/15/2020,Selected
+Heidi Brown,heidi.brown@example.com,6335331059,Cloud Computing,Harvard University,1/22/2022,Rejected
+Heidi Davis,heidi.davis@example.com,8903091435,Web Development,Not Specified,3/27/2021,Selected
+Charlie Miller,charlie.miller@example.com,2087510292,Machine Learning,Yale,8/23/2023,Rejected
+Eva Smith,eva.smith@example.com,9484910255,Web Development,UC Berkeley,12/28/2022,Rejected
+Bob Williams,bob.williams@example.com,5472812355,Web Development,Princeton,1/3/2022,Selected
