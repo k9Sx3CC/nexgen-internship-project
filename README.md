@@ -136,7 +136,7 @@ The project uses:
 
 A 2–3 minute walkthrough video explaining the project, methodology, results, limitations, and recommendation is required.
 
-**Walkthrough Video:** `[Insert your recorded video link here]`
+**Walkthrough Video:** `https://drive.google.com/file/d/15G9uoUYH2jTn_v8Xal6wq2oW2ubB_Aen/view?usp=drive_link`
 
 ## Conclusion
 
